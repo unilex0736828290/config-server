@@ -7,3 +7,4 @@ spring.main.allow-bean-definition-overriding = true
 spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect
 spring.jpa.hibernate.ddl-auto = create
 spring.jpa.show-sql = true
+message=updated message from employee-service from production env
